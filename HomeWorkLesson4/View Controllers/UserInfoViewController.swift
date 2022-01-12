@@ -43,7 +43,7 @@ class UserInfoViewController: UIViewController {
     //MARK: - Settings
     
     private func setUpHierarchy() {
-        view.backgroundColor = #colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1)
+        view.backgroundColor = #colorLiteral(red: 1, green: 0.8580574989, blue: 0.7950903773, alpha: 1)
         view.addSubview(userImage)
         view.addSubview(userNameLabel)
     }
